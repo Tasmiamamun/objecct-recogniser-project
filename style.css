@@ -1,0 +1,18 @@
+.heading{
+    width:70%;
+font-size: 22px;
+}
+body{
+    background-color: aquamarine;
+}
+.name_of_objects{
+    color: rgb(235, 26, 26);
+}
+#camera{
+    border: 2px dotted black;
+    width: 350px;
+    height: 350px;
+}
+#object,#accuracy{
+    color: blueviolet;
+}
